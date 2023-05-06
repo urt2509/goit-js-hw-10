@@ -1,0 +1,1 @@
+{"mappings":"AAEcA,SAASC,cAAc","sources":["src/index.js"],"sourcesContent":["import './css/styles.css';\n\nconst input = document.querySelector('#search-box');\nconst DEBOUNCE_DELAY = 300;\n"],"names":["document","querySelector"],"version":3,"file":"index.b64a1407.js.map"}
